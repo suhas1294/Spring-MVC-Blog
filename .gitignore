@@ -1,0 +1,21 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.iml
+target/
+.idea/workspace.xml
+.idea/vcs.xml
+target/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*.csv
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
